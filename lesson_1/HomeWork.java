@@ -1,7 +1,7 @@
 package lesson1;
 
 public class HomeWork {
-    // TODO: 14.01.2020
+
     public static void main(String[] args) {
 
     }
@@ -13,7 +13,7 @@ public class HomeWork {
         int c = in.nextInt();
         int d = in.nextInt();
         int result = a * (b + (c / d));
-        System.out.println(result);// TODO: 14.01.2020
+        System.out.println(result);
 
     }
 
@@ -37,7 +37,6 @@ public class HomeWork {
         } else {
             System.out.println("Положительное число");
         }
-    }// TODO: 14.01.2020
     }
 
     public boolean task6(int val) {
@@ -75,4 +74,4 @@ public class HomeWork {
 }
 
 
-}
+
